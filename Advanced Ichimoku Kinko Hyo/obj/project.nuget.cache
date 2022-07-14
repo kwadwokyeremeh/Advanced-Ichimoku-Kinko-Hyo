@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+fosx9vUOHswbUFQa5R0HCOjby2ZODh73cMrqM0qFNwemh0tuM+uosLKNw3KZtE7rbw0sOCknhhsKeskcpf4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kwadwo Kyeremeh\\Documents\\cAlgo\\Sources\\Indicators\\AdvancedIchimokuKinkoHyo\\AdvancedIchimokuKinkoHyo\\AdvancedIchimokuKinkoHyo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kwadwo Kyeremeh\\.nuget\\packages\\ctrader.automate\\1.0.1\\ctrader.automate.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
